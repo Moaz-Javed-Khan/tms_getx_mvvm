@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103828751972",
+    "project_id": "graphqlgetxexample-dfa21",
+    "storage_bucket": "graphqlgetxexample-dfa21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103828751972:android:4ce693708f9aac697e4171",
+        "android_client_info": {
+          "package_name": "com.example.graphqlgetxexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103828751972-8oetvtr1c0n8pgcd9eaovuc1jr67r7n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1w4Xvs9SVHUIS8gsXKDOdGDd_r6_Xpbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103828751972-8oetvtr1c0n8pgcd9eaovuc1jr67r7n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
